@@ -1,8 +1,0 @@
-streamlit
-langchain
-langchain-community
-faiss-cpu
-transformers
-huggingface_hub
-torch 
-pypdf 
