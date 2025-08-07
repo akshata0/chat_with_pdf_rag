@@ -3,5 +3,6 @@ langchain
 langchain-community
 faiss-cpu
 transformers
-sentence-transformers
-torch
+huggingface_hub
+torch 
+pypdf 
